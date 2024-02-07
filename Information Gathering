@@ -1,0 +1,21 @@
+Introduction To Information gathering
+- information gathering is the first step of any penetration test and involves gathering or collecting information
+about an individual
+
+- the more information you have on your target the more successful you will be during the scanning and exploitation phase
+
+information gathering is typically broken down into two types
+- Passive information gathering : involves gathering as much information as possible without actively engaging with the target
+- Active information gathering : involves gathering as much information as possible by actively engaging with the target
+
+as a penetration tester what information are you looking for ?
+Passive information gathering (information u can get)
+- Identifying IP addresses & DNS information
+- Identifying domain names and domain ownership information
+- Identifying email addresses and social media profiles
+- Identifying subdomains
+
+Active information gathering (information u can get)
+- Discovering open ports on target machine
+- Learning about the internal infrastructure of a target network/organization
+- Enumerating information from the target systems
