@@ -20,7 +20,6 @@ Purpose of this repository
 Contents
 ------------------
 Section 1: Assessment Methodologies
-obsidian://open?vault=Obsidian%20Vault&file=information%20gathering
 -
 Section 2: Host & Networking Auditing
 -
