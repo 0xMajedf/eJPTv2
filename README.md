@@ -1,7 +1,8 @@
 # eJPTv2
 Hello and welcome to my eJPTv2 journey! In this repository, I'll be documenting my progress, notes, and projects as i undertake the course
 
-![Untitled](https://github.com/0xMajedf/eJPTv2/assets/158180710/03ab71ad-8f0f-4b66-bdca-55046bc1f761)
+
+![ejpt](https://github.com/0xMajedf/eJPTv2/assets/158180710/a0bba2cc-423e-406c-95cd-87530300025d)
 
 
 About
