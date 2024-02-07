@@ -111,6 +111,7 @@ $ Follow the cheat sheet file for more examples
 
 
 Lab01 Windows Recon: Nmap Host Discovery Solution
+=
 
 Step 1: Checking the target IP address
 $ cat /root/Desktop/target
@@ -124,11 +125,12 @@ $ nmap IP
 Step 4: Running Nmap using the -Pn option to discover all alive ports.
 $ nmap -Pn IP
 
-you could specify the port by typing its number for example..
+You could specify the port by typing its number for example
 $ nmap -Pn -p 443 IP
 
 Step 5 we could use option -sV and this option is used to determine the application version information
 $ nmap -Pn -sV -p 80 IP
 
 to scan all the ports use option -p-
+
 $ nmap -Pn -sV -p- IP
