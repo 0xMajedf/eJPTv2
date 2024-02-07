@@ -1,7 +1,10 @@
 # eJPTv2
 Hello and welcome to my eJPTv2 journey! In this repository, I'll be documenting my progress, notes, and projects as i undertake the course
 
-About eJPTv2
+![Untitled](https://github.com/0xMajedf/eJPTv2/assets/158180710/03ab71ad-8f0f-4b66-bdca-55046bc1f761)
+
+
+About
 ---------------
 
 The eJPT certification is an entry-level certification focusing on penetration testing methodologies and techniques. It provides hands-on training and practical exercises to develop essential skills required for ethical hacking and penetration testing.
