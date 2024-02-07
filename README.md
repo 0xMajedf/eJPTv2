@@ -20,27 +20,12 @@ purpose of this repository
 Contents
 ------------------
 Section 1: Assessment Methodologies
-- 
-1- information gathering
-2- footprinting and Scanning
-3- Enumeration
-4- Vulnerability Assessment
-
+-
 Section 2: Host & Networking Auditing
 -
-1- Auditing Fundamentals 
-
 Section 3: Host & Network Penetration Testing
 -
-1- System/Host Based Attacks
-2- Network-Based Attacks
-3- The Metasploit Framework (MSF)
-4- Exploitation
-5- Post-Exploitation
-6- Social Engineering
-
 Section 4: Web application Penetration testing
 -
-1- Introduction to the Web and HTTP Protocol
 
 I hope u will get a huge amount of knowledge through this journey ✨
