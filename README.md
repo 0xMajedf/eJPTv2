@@ -10,7 +10,7 @@ About
 
 The eJPT certification is an entry-level certification focusing on penetration testing methodologies and techniques. It provides hands-on training and practical exercises to develop essential skills required for ethical hacking and penetration testing.
 
-purpose of this repository
+Purpose of this repository
 -----------------
 - Keep Track of my Progress
 - Take detailed notes about the course
