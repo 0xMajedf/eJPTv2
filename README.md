@@ -1,19 +1,19 @@
 # eJPTv2
-eJPTv2 (Junior penetration tester cetificate) Hello and welcome to my eJPTv2 journey! In this repository, I'll be documenting my progress, notes, and projects as i undertake the course
+Hello and welcome to my eJPTv2 journey! In this repository, I'll be documenting my progress, notes, and projects as i undertake the course
 
 About eJPTv2
 ---------------
 
-The eJPTv2 certification is an entry-level certification focusing on penetration testing methodologies and techniques. It provides hands-on training and practical exercises to develop essential skills required for ethical hacking and penetration testing.
+The eJPT certification is an entry-level certification focusing on penetration testing methodologies and techniques. It provides hands-on training and practical exercises to develop essential skills required for ethical hacking and penetration testing.
 
 purpose of this repository
 -----------------
-1-keep track of my progress
-2-take detailed notes about the exam | course
-3-share my experience with other who may be interested in taking eJPTv2 Certification
+1- keep track of my progress
+2- take detailed notes about the exam | course
+3- share my experience with other who may be interested to take the Certificate
 
 
-Contents of eJPTv2
+Contents
 ------------------
 Section 1: Assessment Methodologies
 - 
