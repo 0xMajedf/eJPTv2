@@ -12,9 +12,9 @@ The eJPT certification is an entry-level certification focusing on penetration t
 
 purpose of this repository
 -----------------
-- keep track of my progress
-- take detailed notes about the course
-- share my experience with other who may be interested to take the Certificate
+- Keep Trac of my Progress
+- Take detailed notes about the course
+- Share my experience with other who may be interested to take the Certificate
 
 
 Contents
