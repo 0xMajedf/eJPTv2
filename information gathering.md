@@ -11,7 +11,7 @@ information gathering is typically broken down into two types
 
 as a penetration tester what information are you looking for ?
 
-Passive information gathering (information u can get)
+Passive information gathering
 =
 - Identifying IP addresses & DNS information
 - Identifying domain names and domain ownership information
@@ -20,7 +20,7 @@ Passive information gathering (information u can get)
 
 
 
-Active information gathering (information u can get)
+Active information gathering
 =
 - Discovering open ports on target machine
 - Learning about the internal infrastructure of a target network/organization
@@ -111,6 +111,7 @@ $ Follow the cheat sheet file for more examples
 
 
 Lab01 Windows Recon: Nmap Host Discovery Solution
+
 Step 1: Checking the target IP address
 $ cat /root/Desktop/target
 
